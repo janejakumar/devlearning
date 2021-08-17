@@ -2,3 +2,4 @@ hi this is janeja and we are learning git
 >git init  => Initialized empty Git repository in C:/Users/Janeja kumar/Desktop/WEB DEV/git/.git/
 >git status => tells the status of our tracked/ non tracked files
 .git is our local repository
+ course - B tech.
