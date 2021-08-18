@@ -8,3 +8,8 @@ git commit -m "message to paas regarding changes" => to commit the staged files
  course - B tech.
  roll no - 1802359
 technical proficiency- android , java
+
+
+git branch -M main
+git remote add origin https://github.com/janejakumar/devlearning.git
+git push -u origin main
