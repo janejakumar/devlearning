@@ -13,3 +13,5 @@ technical proficiency- android , java
 git branch -M main
 git remote add origin https://github.com/janejakumar/devlearning.git
 git push -u origin main
+
+git push  => local repository to github
